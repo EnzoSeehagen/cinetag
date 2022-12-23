@@ -2,7 +2,6 @@ import Banner from 'components/Banner';
 import Titulo from 'components/Titulo';
 import styles from './Favoritos.module.css';
 import Card from "components/Card";
-import videos from 'json/db.json';
 import { useFavoritoContext } from 'contextos/Favoritos';
 
 
